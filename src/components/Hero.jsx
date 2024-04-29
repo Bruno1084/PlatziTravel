@@ -3,7 +3,7 @@ import React from "react";
 const Hero =()=> {
 
   return(
-    <section className="relative md:flex md:items-center  bg-[url('PlatziTravelV2/imgs/sanFrancisco.jpg')] md:bg-[url('/imgs/sanFranciscoDesktop.jpg')] bg-cover h-screen md:h-[90vh]">
+    <section className="relative md:flex md:items-center  bg-[url('/imgs/sanFrancisco.jpg')] md:bg-[url('/imgs/sanFranciscoDesktop.jpg')] bg-cover h-screen md:h-[90vh]">
        <div className="grid md:hidden text-center content-around h-full">
             <form action="">
                 <input type="text" placeholder="City Name" className="shadow-lg rounded-full py-4 w-3/4 outline-none text-center" />

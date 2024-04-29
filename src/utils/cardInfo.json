@@ -3,35 +3,35 @@
     "id": "0",
     "Destination": "Norway",
     "Description": "Beatiful landscapes",
-    "CoverImage": "PlatziTravelV2/imgs/norway.jpg"
+    "CoverImage": "/imgs/norway.jpg"
   },
   {
     "id": "1",
     "Destination": "New York",
     "Description": "Concrete jungle",
-    "CoverImage": "PlatziTravelV2/imgs/new_york.jpg"
+    "CoverImage": "/imgs/new_york.jpg"
   },
   {
     "id": "2",
     "Destination": "Yosemite",
     "Description": "A break from the world",
-    "CoverImage": "PlatziTravelV2/imgs/yosemite.jpg"
+    "CoverImage": "/imgs/yosemite.jpg"
   },
   {
     "id": "3",
     "Destination": "Seattle",
     "Description": "The vibrant city",
-    "CoverImage": "PlatziTravelV2/imgs/norway.jpg"
+    "CoverImage": "/imgs/norway.jpg"
   },
   {
     "id": "4",
     "Destination": "Grimentz",
     "Description": "The town between mountains",
-    "CoverImage": "PlatziTravelV2/imgs/switzerland.jpg"
+    "CoverImage": "/imgs/switzerland.jpg"
   },  {
     "id": "5",
     "Destination": "Berlin",
     "Description": "The vibrant city",
-    "CoverImage": "PlatziTravelV2/imgs/berlin.jpg"
+    "CoverImage": "/imgs/berlin.jpg"
   }
 ]
