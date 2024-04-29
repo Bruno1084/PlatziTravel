@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0",
+    "Destination": "Norway",
+    "Description": "Beatiful landscapes",
+    "CoverImage": "/imgs/norway.jpg"
+  },
+  {
+    "id": "1",
+    "Destination": "New York",
+    "Description": "Concrete jungle",
+    "CoverImage": "/imgs/new_york.jpg"
+  },
+  {
+    "id": "2",
+    "Destination": "Yosemite",
+    "Description": "A break from the world",
+    "CoverImage": "/imgs/yosemite.jpg"
+  },
+  {
+    "id": "3",
+    "Destination": "Seattle",
+    "Description": "The vibrant city",
+    "CoverImage": "/imgs/norway.jpg"
+  },
+  {
+    "id": "4",
+    "Destination": "Grimentz",
+    "Description": "The town between mountains",
+    "CoverImage": "/imgs/switzerland.jpg"
+  },  {
+    "id": "5",
+    "Destination": "Berlin",
+    "Description": "The vibrant city",
+    "CoverImage": "/imgs/berlin.jpg"
+  }
+]
