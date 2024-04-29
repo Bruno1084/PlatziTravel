@@ -1,6 +1,6 @@
 import React from "react";
-import Carousel from "react-multi-carousel";
 import cardInfo from "../utils/cardInfo.json";
+import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css"
 
 
@@ -38,7 +38,7 @@ const Recommentations = () => {
             return (
               <div key={value.id} className={`rounded-lg h-72 w-60 mx-4 shadow-lg overflow-hidden inline-block hover:cursor-pointer ${bgColorClass}`}>
                 <div className="container-img h-3/5">
-                  <img src={value.CoverImage} alt="img-norway" className="h-full" />
+                  <img src={value.CoverImage} alt="img-destination" className="h-full" />
                 </div>
                 <div className="container-text h-2/5 p-4">
                   <h4 className={`font-bold text-xl ${isEven ? 'text-white' : 'text-blue'}`}>{value.Destination}</h4>
